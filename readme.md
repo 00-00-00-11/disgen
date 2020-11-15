@@ -14,9 +14,7 @@
 </div>
 
 <div align="center">
-	<sub>The little toy that could. Built by Plutonus for fun during a drunk afternoon.
-
-	Inspired by <a href="https://twitter.com/h0nde">h0nda's sel-discord</a> python package.</sub>
+	<sub>The little toy that could. Built by Plutonus for fun during a drunk afternoon. Inspired by h0nda's sel-discord python package.</sub>
 </div>
 
 
