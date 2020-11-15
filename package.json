@@ -1,0 +1,21 @@
+{
+  "name": "disgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PlutonusDev <ceo@plutonus.co>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "puppeteer": "^5.4.1",
+    "random-useragent": "^0.5.0",
+    "superagent": "^6.1.0",
+    "superagent-proxy": "^2.1.0",
+    "tunnel": "0.0.6",
+    "ua-parser-js": "^0.7.22",
+    "websocket": "^1.0.32"
+  }
+}
